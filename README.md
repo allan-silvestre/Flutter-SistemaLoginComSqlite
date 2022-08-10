@@ -7,7 +7,7 @@ Tela de Login com autenticação.
 - Persistencia de dados com SqLite
 - verificação de dados fornecidos em login e cadastro de usuário
 <div style="display: inline_block"><br>
-<img src="https://user-images.githubusercontent.com/55851020/184015072-c5e484a1-7f85-41bb-93e4-bbe1005709ef.jpg" width="381" height="847">
+<img src="https://user-images.githubusercontent.com/55851020/184015072-c5e484a1-7f85-41bb-93e4-bbe1005709ef.jpg" width="236" height="525">
 </div>
 
 This project is a starting point for a Flutter application.
