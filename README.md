@@ -6,9 +6,9 @@ Tela de Login com autenticação.
 - Tela de cadastro
 - Persistencia de dados com SqLite
 - verificação de dados fornecidos em login e cadastro de usuário
-
-<embed src="https://user-images.githubusercontent.com/55851020/184013667-f353e8e0-d232-4cb0-acac-e62495e89db1.mp4" type="application/x-shockwave-flash" width="425" height="350" />
-
+<div>
+<embed src="https://user-images.githubusercontent.com/55851020/184013667-f353e8e0-d232-4cb0-acac-e62495e89db1.mp4" width="425" height="350" />
+</div>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
