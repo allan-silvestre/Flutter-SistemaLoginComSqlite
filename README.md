@@ -2,6 +2,13 @@
 
 Tela de Login com autenticação.
 
+- Tela de login
+- Tela de cadastro
+- Persistencia de dados com SqLite
+- verificação de dados fornecidos em login e cadastro de usuário
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
