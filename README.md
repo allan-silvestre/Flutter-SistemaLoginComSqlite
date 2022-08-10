@@ -1,10 +1,10 @@
 # login
 
-Tela de Login com autenticação.
+Sistema de Login com autenticação e persistência de dados com SqLite.
 
 - Tela de login
 - Tela de cadastro
-- Persistencia de dados com SqLite
+- Persistência de dados com SqLite
 - verificação de dados fornecidos em login e cadastro de usuário<br>
 Link Vídeo demonstração : <a href="https://user-images.githubusercontent.com/55851020/184013667-f353e8e0-d232-4cb0-acac-e62495e89db1.mp4" target="_blank">videoDemonstrativo.mp4</a>
 <div style="display: inline_block"><br>
